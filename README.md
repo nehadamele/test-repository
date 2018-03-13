@@ -1,2 +1,5 @@
 # test-repository
-1st repository on gitHub
+
+Test repository README file changes.
+
+Have a wonderful day :) !
